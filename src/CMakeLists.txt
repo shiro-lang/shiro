@@ -1,0 +1,1 @@
+﻿add_executable(shiroc shiroc.cpp lexer.cpp lexer.h)
